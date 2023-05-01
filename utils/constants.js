@@ -1,0 +1,1 @@
+export const NO_IMAGE_URL = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.allianceplast.com%2Fwp-content%2Fuploads%2Fno-image-1024x1024.png&f=1&nofb=1&ipt=9525bf601ee521c952b0131c8774627465eec0dc0cc0326f8ab9f0a5b932001c&ipo=images'
